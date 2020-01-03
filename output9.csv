@@ -1,0 +1,28 @@
+User story: R2019-3126;Input;Detected Vagueness;Disambiguation of Vagueness;Detected referential ambiguity;Disambiguation of referential ambiguity;Old input;
+Role;Frequent user;;;;;;
+Means;I want to be able to save multiple addresses in the app.;;;;;;
+Ends;I order my food from a few different places and it is a pain to retype the address every time;;;;;;
+Requirement Type;new idea;;;;;;
+Concerning feature;;;;;;;
+
+User story: R2019-8459;Input;Detected Vagueness;Disambiguation of Vagueness;Detected referential ambiguity;Disambiguation of referential ambiguity;Old input;
+Role;Frequent user;;;;;;
+Means;I want to be able to pay more to have my order be on time not matter what.;;;;;;
+Ends;I have little time to eat and need my food to be on time.;;;;;;
+Requirement Type;new idea;;;;;;
+Concerning feature;;;;;;;
+
+User story: R2019-6996;Input;Detected Vagueness;Disambiguation of Vagueness;Detected referential ambiguity;Disambiguation of referential ambiguity;Old input;
+Role;Frequent user;;;;;;
+Means;I want to be able te search for a specific dish.;;;;;;
+Ends;I want to eat varried food and have to search multiple restaurants some times to get the dish I want.;;;;;;
+Requirement Type;new idea;;;;;;
+Concerning feature;;;;;;;
+
+User story: R2019-5512;Input;Detected Vagueness;Disambiguation of Vagueness;Detected referential ambiguity;Disambiguation of referential ambiguity;Old input;
+Role;Frequent user;;;;;;
+Means;I want to submit a list of my allergies in the app and have dishes show allergy information.;;;;;;
+Ends;I am allergic to peanuts, cashews and apples, I can't be sure that the dishes don't contain that at the moment.;;;;;;
+Requirement Type;new idea;;;;;;
+Concerning feature;;;;;;;
+

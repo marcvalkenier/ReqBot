@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29001.49
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReqBot", "TestBot\ReqBot.csproj", "{7840464E-37B4-4989-8B51-7193F956AFF3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7840464E-37B4-4989-8B51-7193F956AFF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7840464E-37B4-4989-8B51-7193F956AFF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7840464E-37B4-4989-8B51-7193F956AFF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7840464E-37B4-4989-8B51-7193F956AFF3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74CE71F6-1CB8-468F-878C-FCDEC2FD35B6}
+	EndGlobalSection
+EndGlobal

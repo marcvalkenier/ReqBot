@@ -1,0 +1,35 @@
+User story: R2019-2480;Input;Detected Vagueness;Disambiguation of Vagueness;Detected referential ambiguity;Disambiguation of referential ambiguity;Old input;
+Role;Explorer;;;;;;
+Means;I want to generate a route along all important places I've selected, so that I can explore the city in one long walk.;;;;;;
+Ends;Because this feature is missing and I now have to search the web for all important places and then transfer them over into Google Maps;;;;;;
+Requirement Type;new idea;;;;;;
+Concerning feature;;;;;;;
+
+User story: R2019-8291;Input;Detected Vagueness;Disambiguation of Vagueness;Detected referential ambiguity;Disambiguation of referential ambiguity;Old input;
+Role;Recreational user;;;;;;
+Means;I want the street names to be clearer and more eligible;;;;;;
+Ends;Because I cannot read all of the street names if I'm zoomed out. I don't want to zoom in because I lose overview;;;;;;
+Requirement Type;change request;;;;;;
+Concerning feature;Advanced options;;;;;;
+
+User story: R2019-5508;Input;Detected Vagueness;Disambiguation of Vagueness;Detected referential ambiguity;Disambiguation of referential ambiguity;Old input;
+Role;Explorer;;;;;;
+Means;I want to see which areas I have not visited yet;;;;;;
+Ends;Because the, I can easily see to which areas I need to go in order to fully visit Utrecht;;;;;;
+Requirement Type;new idea;;;;;;
+Concerning feature;;;;;;;
+
+User story: R2019-2274;Input;Detected Vagueness;Disambiguation of Vagueness;Detected referential ambiguity;Disambiguation of referential ambiguity;Old input;
+Role;Recreational user;;;;;;
+Means;I want to see which streets do not allow cars;;;;;;
+Ends;I want this, because then I could easily take my dog out for a walk in a car free area;;;;;;
+Requirement Type;new idea;;;;;;
+Concerning feature;;;;;;;
+
+User story: R2019-2882;Input;Detected Vagueness;Disambiguation of Vagueness;Detected referential ambiguity;Disambiguation of referential ambiguity;Old input;
+Role;Recreational user;;;;;;
+Means;I want a cycling route which avoids crowded intersections and traffic lights;;;;;;
+Ends;Because I do not like crowded intersections and traffic lights when cycling through Utrecht;;;;;;
+Requirement Type;new idea;;;;;;
+Concerning feature;;;;;;;
+

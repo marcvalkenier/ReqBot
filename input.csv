@@ -1,0 +1,9 @@
+Concerns;Standard Components ;Standard Roles;App name;Delay time multiplier;Ambiguity detection;Participant no.;Maps Component;Maps Roles;Facebook Component;Facebook Roles;Youtube Component;Youtube Roles;Thuisbezorgd Component;Thuisbezorgd Roles
+Options;(Free format);(Free format);"""Maps"", ""Facebook"", ""Youtube"", ""Thuisbezorgd""";7 for normal, 10 for slow, 0 for none;"""on"" or empty";;(Free format);(Free format);(Free format);(Free format);(Free format);(Free format);(Free format);(Free format)
+;Login;General user;Maps;7;;41;Account;Commuter;Homepage;Active poster;Videos;Channel manager;Restaurants;Restaurant
+;Payment;Administrator;;;;;Route selection;Recreational user;Account;Passive reader;Video info;Viewer;Dishes;Occasional user
+;Menu;Other...;;;;;Traffic info;Explorer;Friends;Influencer;Categories;Advertiser;Account;Deliverer
+;Layout;;;;;;Location search;Other...;Posts;Other...;Comments;Casual uploader;Categories;Frequent user
+;Connection;;;;;;Location info;;Groups;;Channels;Other...;Other...;Other...
+;Other...;;;;;;Advanced options;;Events;;Reccomendations;;;
+;;;;;;;Other...;;Other...;;Other...;;;

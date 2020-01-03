@@ -1,0 +1,35 @@
+User story: R2019-7788;Input;Detected Vagueness;Disambiguation of Vagueness;Detected referential ambiguity;Disambiguation of referential ambiguity;Old input;
+Role;Recreational user;;;;;;
+Means;An option that plots a route that goes past important places in a city;;;;;;
+Ends;I want to get to know the important parts of the city in one efficient route;;;;;;
+Requirement Type;new idea;;;;;;
+Concerning feature;;;;;;;
+
+User story: R2019-6205;Input;Detected Vagueness;Disambiguation of Vagueness;Detected referential ambiguity;Disambiguation of referential ambiguity;Old input;
+Role;Recreational user;;;;;;
+Means;Increase the size of the street names without zooming in;;;;;;
+Ends;I do not want to zoom in to read street names as it lowers my overview;;;;;;
+Requirement Type;change request;;;;;;
+Concerning feature;Location info;;;;;;
+
+User story: R2019-6899;Input;Detected Vagueness;Disambiguation of Vagueness;Detected referential ambiguity;Disambiguation of referential ambiguity;Old input;
+Role;Recreational user;;;;;;
+Means;Visualize priorly recorded routes on Maps;;;;;;
+Ends;To see where I have not been yet;;;;;;
+Requirement Type;new idea;;;;;;
+Concerning feature;;;;;;;
+
+User story: R2019-2823;Input;Detected Vagueness;Disambiguation of Vagueness;Detected referential ambiguity;Disambiguation of referential ambiguity;Old input;
+Role;Recreational user;;;;;;
+Means;Visualize what kind of traffic is allowed in what streets;;;;;;
+Ends;So that I can avoid routes with cars;;;;;;
+Requirement Type;new idea;;;;;;
+Concerning feature;;;;;;;
+
+User story: R2019-7993;Input;Detected Vagueness;Disambiguation of Vagueness;Detected referential ambiguity;Disambiguation of referential ambiguity;Old input;
+Role;Recreational user;;;;;;
+Means;An option to avoid intersections and traffic lights in my route;;;;;;
+Ends;I want to avoid them when cycling (recreationally);;;;;;
+Requirement Type;new idea;;;;;;
+Concerning feature;;;;;;;
+

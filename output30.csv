@@ -1,0 +1,35 @@
+User story: R2019-9130;Input;Detected Vagueness;Disambiguation of Vagueness;Detected referential ambiguity;Disambiguation of referential ambiguity;Old input;
+Role;Recreational user;;;;;;
+Means;I want an option that Maps can generate a route for me along important places;;;;;;
+Ends;I want a walk through along important places in a city I am visiting;;;;;;
+Requirement Type;new idea;;;;;;
+Concerning feature;;;;;;;
+
+User story: R2019-6315;Input;Detected Vagueness;Disambiguation of Vagueness;Detected referential ambiguity;Disambiguation of referential ambiguity;Old input;
+Role;Recreational user;;;;;;
+Means;There should be an option such that the names of the streets are enlargened without having to zoom in every time.;;;;;;
+Ends;I cannot read all of the characters without having to zoom in;;;;;;
+Requirement Type;new idea;;;;;;
+Concerning feature;;;;;;;
+
+User story: R2019-1880;Input;Detected Vagueness;Disambiguation of Vagueness;Detected referential ambiguity;Disambiguation of referential ambiguity;Old input;
+Role;Recreational user;;;;;;
+Means;I want to see where I have been using Maps the previous month, such that I know where I have been.;;;;;;
+Ends;I wonder where I haven't been in this city the previous months.;;;;;;
+Requirement Type;new idea;;;;;;
+Concerning feature;;;;;;;
+
+User story: R2019-1957;Input;Detected Vagueness;Disambiguation of Vagueness;Detected referential ambiguity;Disambiguation of referential ambiguity;Old input;
+Role;Recreational user;;;;;;
+Means;Could you make an option such that one is able to see which streets allow cars and which do not?;;;;;;
+Ends;I want to take my dog for a walk and prefer a walk along streets without cars.;;;;;;
+Requirement Type;new idea;;;;;;
+Concerning feature;;;;;;;
+
+User story: R2019-1981;Input;Detected Vagueness;Disambiguation of Vagueness;Detected referential ambiguity;Disambiguation of referential ambiguity;Old input;
+Role;Recreational user;;;;;;
+Means;Could the app show a route wihich avoids intersections and crowded intersections?;;;;;;
+Ends;I want to avoid these things as much as possible when cycling.;;;;;;
+Requirement Type;new idea;;;;;;
+Concerning feature;;;;;;;
+

@@ -1,0 +1,43 @@
+Location;Content;;;
+RequestName;How can I call you?;What is your name?;;
+RequestAnonymity;Do you want to have your name attached to this requirement or stay anonymous?;;;
+ExplainHelp;Okay {MainFlowDialog.user.Name}, let's get started and before I forget, if you ever get stuck just type: \help;All right X if you ever get stuck, you can type: \help. Now let us get started.;;
+ExplainHelp2;Okay {MainFlowDialog.user.Name}, I can help you in two ways: First to communicate a new idea or functionality for *{MainFlowDialog.appName}* and second to request a change in *{MainFlowDialog.appName}* if for example something doesn't work (the way you want it).;There are two ways in which I can help you: One is to communicate a new idea or functionality for *{MainFlowDialog.appName}* and the other is to request a change in *{MainFlowDialog.appName}* if for example something doesn't work (the way you want it).;;
+RequestRequirementType;Do you want to suggest something new or request a change in the app?;;;
+RequestExistingFeature;Okay a change it is. What part of *{MainFlowDialog.appName}* you want to change?;All right, what part do you want to change?;;
+RequestOtherExistingFeature;Oh it seems like the part you intended was not on the list. What specific part do you want to change?;Please name the specific part of *{MainFlowDialog.appName}* you want to change.;;
+RequestMeansNew;All right. Please describe in one sentence what you want.;Please write one sentence that describes what you want.;;
+RequestMeansExisting;All right. Please describe what changes you want in the **{MainFlowDialog.userStory.ExistingFeature}** in one sentence;;;
+RequestChangeMeans;So you want to make a change in **{MainFlowDialog.userStory.Means}**. Please retype it the way you want it;;;
+RespondMeans;All right, thanks.;Noted it.;Thank you, I got it.;Okay, I got that.
+RespondChangedMeans;All right, I changed **{MainFlowDialog.userStory.OldMeans}** into **{MainFlowDialog.userStory.Means}**.;;;
+RequestEnds;Please describe why you want this {MainFlowDialog.userStory.ReqType} in one sentence.;Please describe what benefit this {MainFlowDialog.userStory.ReqType} would bring?;;
+RequestChangeEnds;So you want to make a change in **{MainFlowDialog.userStory.Ends}**. Please retype it the way you want it.;It appears that **{MainFlowDialog.userStory.Ends}** was not what you meant. Please type it the way you inteded it.;;
+RespondEnds;All right, thanks.;Noted it.;Thank you, I got it.;Okay, I got that.
+RespondChangeEnds;All right, I changed **{MainFlowDialog.userStory.OldEnds}** into **{MainFlowDialog.userStory.Ends}**.;;;
+RequestRole;What is your role regarding the system?;;;
+RequestChangeRole;So you want to make a change in **{MainFlowDialog.userStory.Role}**. What is your role?;;;
+RequestOtherRole;Oh it seems like the part you intended was not on the list. What role do you have?;;;
+RequestChangeOtherRole;Oh it seems like the part you intended was not on the list. What role do you have?;;;
+RequestChangeNoRoles;What is your role regarding the system in one or two words?;Please describe your role regarding the system in one or two words?;;
+RespondRole;All right, thanks.;Noted it.;Thank you, I got it.;Okay, I got that.
+RespondChangeRole;All right, I changed **{MainFlowDialog.userStory.OldRole}** into **{MainFlowDialog.userStory.Role}**.;;;
+RespondOtherRole;All right, thanks.;Noted it.;Thank you, I got it.;Okay, I got that.
+RespondChangeOtherRole;All right, I changed **{MainFlowDialog.userStory.OldRole}** into **{MainFlowDialog.userStory.Role}**.;;;
+RequestConfirmationOrChange;So summarizing, you told me the following **{MainFlowDialog.userStory.ReqType}**: {MainFlowDialog.userStory.CompleteUserStory}. {Enter} Do you want to submit this or do you want to make some changes?;I got the following information concerning the **{MainFlowDialog.userStory.ReqType}** from you: {MainFlowDialog.userStory.CompleteUserStory}. {Enter} Do you want to submit this or do you want to make some changes?;;
+RespondChange;Okay, what part do you want to change?;So, which part shall we change?;;
+RespondConfirmation;Thank you {MainFlowDialog.user.Name}! With this code {MainFlowDialog.userStory.UserStoryCode} you will be able to track your requirement on our forum.;All right {MainFlowDialog.user.Name}! You can track this **{MainFlowDialog.userStory.ReqType}** on our website with the code {MainFlowDialog.userStory.UserStoryCode}.;;
+RequestNotificationOption;Do you want us to keep you posted about the progression of your requirement by mail?;;;
+RequestChangeNotificationOption;The last time you used the setting **{MainFlowDialog.user.NotificationOption}**, do you want to keep this setting or change it in which case you will be mailed?;;;
+RequestChangeNotificationOption2;The last time you used the setting **{MainFlowDialog.user.NotificationOption}**, do you want to keep this setting or change it in which case you will not be mailed?;;;
+RespondChangeNotificationOption;Okay, we will not mail you.;All right, we shall not mail you;;
+RequestMail;All right {MainFlowDialog.user.Name}, what is your email adress?;To which email adress shall we send the updates?;;
+RespondToMailRequest;We will keep you posted on **{MainFlowDialog.user.Email}**;;;
+RequestMailBadFormat;I am sorry to say but **{MainFlowDialog.user.Email}** is not an email adress, maybe you made a typo. Please retype your email adress;**{MainFlowDialog.user.Email}** can not be an email adress, maybe you made a typo. Please retype your email adress.;;
+RequestAnotherRequirement;Do you want to submit other new ideas and changes or shall we end this conversation?;;;
+RespondClosingDialog;Thank you for participating {MainFlowDialog.user.Name}. You can hand the laptop back.;;;
+RequestVagueDisambiguation;I noticed that you used the word **{MainFlowDialog.userStory.DetectedVagueness}**, which can have several meanings or measures. To help us understand your intent as good as possible, could you try to specify it? If possible, please try to use units. For instance, fast could be specified by saying 0,5 sec or 500 ms.;;;
+RespondVagueDisambiguation;Thank you.;;;
+RequestReferentialDisambiguation;I noticed that you used the word **{MainFlowDialog.userStory.DetectedTriggerReferential}**, which can refer to several words. To help me understand your intent as good as possible, please tell me to what word **{MainFlowDialog.userStory.DetectedTriggerReferential}** refers;;;
+RequestNotListedReferentialDisambiguation;Apperantly I did not list to what **{MainFlowDialog.userStory.DetectedTriggerReferential}** does refer. Please tell me to what **{MainFlowDialog.userStory.DetectedTriggerReferential}** does refer.;;;
+RespondReferentialDisambiguation;Thank you for specifying this.;;;

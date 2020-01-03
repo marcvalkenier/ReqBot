@@ -1,0 +1,35 @@
+User story: R2019-5286;Input;Detected Vagueness;Disambiguation of Vagueness;Detected referential ambiguity;Disambiguation of referential ambiguity;Old input;
+Role;Frequent user;;;;;;
+Means;I would like to save my favorite restaurants for quick future reuse;quick;Within at most 15 seconds;;;;
+Ends;I frequently use the same restaurants to order from and looking them up each time consumes alot of time;;;them = favorite restaurants reuse;restaurants;;
+Requirement Type;new idea;;;;;;
+Concerning feature;;;;;;;
+
+User story: R2019-9895;Input;Detected Vagueness;Disambiguation of Vagueness;Detected referential ambiguity;Disambiguation of referential ambiguity;Old input;
+Role;Frequent user;;;;;;
+Means;I would like to have the option to pay an additional fee for priority delivery;;;;;;
+Ends;Waiting on an order might take up time i don't have;;;;;;
+Requirement Type;new idea;;;;;;
+Concerning feature;;;;;;;
+
+User story: R2019-2600;Input;Detected Vagueness;Disambiguation of Vagueness;Detected referential ambiguity;Disambiguation of referential ambiguity;Old input;
+Role;Frequent user;;;;;;
+Means;I would like to have the option to search for specific dishes, currently it is only possible to search for restaurants;;;;;;
+Ends;Scanning each restaurant takes up alot of time;;;;;;
+Requirement Type;change request;;;;;;
+Concerning feature;Categories;;;;;;
+
+User story: R2019-7759;Input;Detected Vagueness;Disambiguation of Vagueness;Detected referential ambiguity;Disambiguation of referential ambiguity;Old input;
+Role;Frequent user;;;;;;
+Means;A form in which i can register my allergies;;;;;;
+Ends;I need to look at each dish individually which takes unnescessary time;;;;;;
+Requirement Type;new idea;;;;;;
+Concerning feature;;;;;;;
+
+User story: R2019-6270;Input;Detected Vagueness;Disambiguation of Vagueness;Detected referential ambiguity;Disambiguation of referential ambiguity;Old input;
+Role;Frequent user;;;;;;
+Means;If I try to order an idea which i am allergic to a warning message should pop up;;;;;;
+Ends;For my own safety;;;;;;
+Requirement Type;new idea;;;;;;
+Concerning feature;;;;;;;
+

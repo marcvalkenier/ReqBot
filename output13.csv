@@ -1,0 +1,28 @@
+User story: R2019-4950;Input;Detected Vagueness;Disambiguation of Vagueness;Detected referential ambiguity;Disambiguation of referential ambiguity;Old input;
+Role;Frequent user;;;;;;
+Means;Add a home adresses/several adresses to make the ordering process faster;;;;;;
+Ends;I currently order a lot from multiple places (office, home, partners home) and I would like the information to be saved to my account so I can select a profile in order to avoid typing all my information every time;;;;;;
+Requirement Type;change request;;;;;;
+Concerning feature;Account;;;;;;
+
+User story: R2019-9962;Input;Detected Vagueness;Disambiguation of Vagueness;Detected referential ambiguity;Disambiguation of referential ambiguity;Old input;
+Role;Frequent user;;;;;;
+Means;Option to pay more for faster service;;;;;;
+Ends;I would sometimes be willing to pay more if it guarenteed the delivery to be on the requested time if it is a busy time;;;;;;
+Requirement Type;new idea;;;;;;
+Concerning feature;;;;;;;
+
+User story: R2019-2270;Input;Detected Vagueness;Disambiguation of Vagueness;Detected referential ambiguity;Disambiguation of referential ambiguity;Old input;
+Role;Frequent user;;;;;;
+Means;I would like to be able to search for a dish with all its information next to being able to search for restaurant types;;;;;;
+Ends;As a frequent user, I sometimes wish to order a specific dish. For instance, Lasagna. Not every Pizza place has lasagna, so I would find it easier to categorize the food. This way, it would be easier to order some of my favourite dishes.;;;;;;
+Requirement Type;change request;;;;;;
+Concerning feature;Dishes;;;;;;
+
+User story: R2019-3798;Input;Detected Vagueness;Disambiguation of Vagueness;Detected referential ambiguity;Disambiguation of referential ambiguity;Old input;
+Role;Frequent user;;;;;;
+Means;Allergy information of the dishes should be more complete, so that I don't have an unexpected allergic reaction;;;;;;
+Ends;If the dishes would have a database containing the ingredients, and I could create an allergy profile in my Thuisbezord Profile, the App could warn me if a certain dish I ordered contains anything that I might be allergic to. This way, I can avoid an allergic reaction more carefully.;;;;;;
+Requirement Type;change request;;;;;;
+Concerning feature;Dishes;;;;;;
+

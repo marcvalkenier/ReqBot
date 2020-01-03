@@ -1,0 +1,35 @@
+User story: R2019-7615;Input;Detected Vagueness;Disambiguation of Vagueness;Detected referential ambiguity;Disambiguation of referential ambiguity;Old input;
+Role;Viewer;;;;;;
+Means;I want music to keep playing even when I turn off the screen;;;;;;
+Ends;So that I can put my phone in my pocket when I'm listening to music;;;;;;
+Requirement Type;change request;;;;;;
+Concerning feature;I want to be able to listen to music when I turn off the screen;;;;;;
+
+User story: R2019-5787;Input;Detected Vagueness;Disambiguation of Vagueness;Detected referential ambiguity;Disambiguation of referential ambiguity;Old input;
+Role;Viewer;;;;;;
+Means;I want video's to start loading while the ads are playing;;;;;;
+Ends;So that video's load quicker, even when I have poor connectivity;quicker;Preferably within 5 sec;;;;
+Requirement Type;change request;;;;;;
+Concerning feature;Videos;;;;;;
+
+User story: R2019-9902;Input;Detected Vagueness;Disambiguation of Vagueness;Detected referential ambiguity;Disambiguation of referential ambiguity;Old input;
+Role;Viewer;;;;;;
+Means;I want to be able to search for educative videos more easily;;;;;;
+Ends;Because I can't find videos on this topic;;;;;;
+Requirement Type;new idea;;;;;;
+Concerning feature;;;;;;;
+
+User story: R2019-8300;Input;Detected Vagueness;Disambiguation of Vagueness;Detected referential ambiguity;Disambiguation of referential ambiguity;Old input;
+Role;Viewer;;;;;;
+Means;I want to see the rating of videos before I watch the video;;;;;;
+Ends;So that I have an indication on the quality;;;;;;
+Requirement Type;new idea;;;;;;
+Concerning feature;;;;;;;
+
+User story: R2019-1629;Input;Detected Vagueness;Disambiguation of Vagueness;Detected referential ambiguity;Disambiguation of referential ambiguity;Old input;
+Role;Viewer;;;;;;
+Means;I want the title text to be larger;;;;;;
+Ends;So that I can read it more easily;;;it = title text;title text;;
+Requirement Type;change request;;;;;;
+Concerning feature;Video info;;;;;;
+

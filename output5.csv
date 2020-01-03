@@ -1,0 +1,35 @@
+User story: R2019-3995;Input;Detected Vagueness;Disambiguation of Vagueness;Detected referential ambiguity;Disambiguation of referential ambiguity;Old input;
+Role;Frequent user;;;;;;
+Means;A way to register amy allergies.;;;;;;
+Ends;So that restaurants know my allergies and can act acordingly.;;;;;;
+Requirement Type;new idea;;;;;;
+Concerning feature;;;;;;;
+
+User story: R2019-5865;Input;Detected Vagueness;Disambiguation of Vagueness;Detected referential ambiguity;Disambiguation of referential ambiguity;Old input;
+Role;Frequent user;;;;;;
+Means;I would like that the app would notify me on what allergies are contained in the dishes I order.;;;;;;
+Ends;I sometimes per mistake order a dish with something I am mildly allergic off and this way I would know this.;;;;;;
+Requirement Type;new idea;;;;;;
+Concerning feature;;;;;;;
+
+User story: R2019-7998;Input;Detected Vagueness;Disambiguation of Vagueness;Detected referential ambiguity;Disambiguation of referential ambiguity;Old input;
+Role;Frequent user;;;;;;
+Means;I want to be able to search for a certain dish.;;;;;;
+Ends;I now have to check te dishes of mutiple restaurants to find what I am looking for which takes a lot of time.;;;;;;
+Requirement Type;new idea;;;;;;
+Concerning feature;;;;;;;
+
+User story: R2019-6444;Input;Detected Vagueness;Disambiguation of Vagueness;Detected referential ambiguity;Disambiguation of referential ambiguity;Old input;
+Role;Frequent user;;;;;;
+Means;An option to pay more for a rush order.;;;;;;
+Ends;I have little time to wait for my food so I would pay extra to get it quicker.;;;;;Ordering takes sometimes longer then expected and I have little time to eat.;
+Requirement Type;new idea;;;;;;
+Concerning feature;;;;;;;
+
+User story: R2019-5418;Input;Detected Vagueness;Disambiguation of Vagueness;Detected referential ambiguity;Disambiguation of referential ambiguity;Old input;
+Role;Frequent user;;;;;;
+Means;Add a function where I select favourite restaurants.;;;;;;
+Ends;It takes a lot of time finding the same restaurants I always use.;;;;;;
+Requirement Type;new idea;;;;;;
+Concerning feature;;;;;;;
+

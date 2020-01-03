@@ -1,0 +1,35 @@
+User story: R2019-3451;Input;Detected Vagueness;Disambiguation of Vagueness;Detected referential ambiguity;Disambiguation of referential ambiguity;Old input;
+Role;Frequent user;;;;;;
+Means;can you save three addresses?;;;;;;
+Ends;i hate to retype each address every time;;;;;;
+Requirement Type;new idea;;;;;;
+Concerning feature;;;;;;;
+
+User story: R2019-2467;Input;Detected Vagueness;Disambiguation of Vagueness;Detected referential ambiguity;Disambiguation of referential ambiguity;Old input;
+Role;Frequent user;;;;;Deliverer;
+Means;is it possible to rush up an order?;;;;;;
+Ends;i have some times little time to eat;;;;;;
+Requirement Type;new idea;;;;;;
+Concerning feature;;;;;;;
+
+User story: R2019-8270;Input;Detected Vagueness;Disambiguation of Vagueness;Detected referential ambiguity;Disambiguation of referential ambiguity;Old input;
+Role;Frequent user;;;;;;
+Means;it would be nice if there is a possibility to search for specifiek dishes.;;;;;;
+Ends;sometimes it took me very long searching for mij specifiek dish;;;it = possibility search specifiek dishes;search;;
+Requirement Type;new idea;;;;;;
+Concerning feature;;;;;;;
+
+User story: R2019-6673;Input;Detected Vagueness;Disambiguation of Vagueness;Detected referential ambiguity;Disambiguation of referential ambiguity;Old input;
+Role;Frequent user;;;;;;
+Means;is there a possiblity to register all my allergies?;;;;;;
+Ends;so that i have less risk;;;you = possiblity allergies;the app;can you register all my allergies?;
+Requirement Type;new idea;;;;;;
+Concerning feature;;;;;;;
+
+User story: R2019-2129;Input;Detected Vagueness;Disambiguation of Vagueness;Detected referential ambiguity;Disambiguation of referential ambiguity;Old input;
+Role;Frequent user;;;;;;
+Means;an app to warn me for allergical part in the dish;;;;;;
+Ends;this could help me al ot by ordering;;;;;;
+Requirement Type;new idea;;;;;;
+Concerning feature;;;;;;;
+

@@ -1,0 +1,35 @@
+User story: R2019-5986;Input;Detected Vagueness;Disambiguation of Vagueness;Detected referential ambiguity;Disambiguation of referential ambiguity;Old input;
+Role;Viewer;;;;;;
+Means;I think it would be nice to see the likes and dislikes on a video before i click on that video;;;;;;
+Ends;When i find a video that i think i might like, i want to get an indication of the quality from other youtubers;;;;;;
+Requirement Type;new idea;;;;;;
+Concerning feature;;;;;;;
+
+User story: R2019-6329;Input;Detected Vagueness;Disambiguation of Vagueness;Detected referential ambiguity;Disambiguation of referential ambiguity;Old input;
+Role;Viewer;;;;;;
+Means;I would like the sound of a video to continue when i turn the screen off;;;;;;
+Ends;This way i can listen to music when my screen is locked;;;;;;
+Requirement Type;change request;;;;;;
+Concerning feature;Videos;;;;;;
+
+User story: R2019-1519;Input;Detected Vagueness;Disambiguation of Vagueness;Detected referential ambiguity;Disambiguation of referential ambiguity;Old input;
+Role;Viewer;;;;;;
+Means;I would like a video to load when an add is playing;;;;;;
+Ends;Right now i have to wait for a video to load after an ad has played;;;;;;
+Requirement Type;new idea;;;;;;
+Concerning feature;;;;;;;
+
+User story: R2019-9543;Input;Detected Vagueness;Disambiguation of Vagueness;Detected referential ambiguity;Disambiguation of referential ambiguity;Old input;
+Role;Viewer;;;;;;
+Means;I would like the text of a title of a video to be a bit larger;;;;;;
+Ends;I find it hard to read them and i do not really want to get glasses;;;it = text title video bit larger;title;;
+Requirement Type;change request;;;;;;
+Concerning feature;Video info;;;;;;
+
+User story: R2019-3210;Input;Detected Vagueness;Disambiguation of Vagueness;Detected referential ambiguity;Disambiguation of referential ambiguity;Old input;
+Role;Viewer;;;;;;
+Means;I would like to have some more categories to choose from, specifically for educative videos;;;;;;
+Ends;I have some difficulty in finding videos i like, specifically educative videos;;;;;;
+Requirement Type;change request;;;;;;
+Concerning feature;Categories;;;;;;
+

@@ -1,0 +1,35 @@
+User story: R2019-7831;Input;Detected Vagueness;Disambiguation of Vagueness;Detected referential ambiguity;Disambiguation of referential ambiguity;Old input;
+Role;Frequent user;;;;;;
+Means;Storing my adresses;;;;;;
+Ends;I order from mulitple locations and now i have to retype them each time.;;;;;;
+Requirement Type;new idea;;;;;;
+Concerning feature;;;;;;;
+
+User story: R2019-8362;Input;Detected Vagueness;Disambiguation of Vagueness;Detected referential ambiguity;Disambiguation of referential ambiguity;Old input;
+Role;Frequent user;;;;;;
+Means;An option to rush an order.;;;;;;
+Ends;Sometimes I am on a tight schedule and the order currently takes too much time, paying extra to rush it would be nice.;;;it = option order;order;;
+Requirement Type;new idea;;;;;;
+Concerning feature;;;;;;;
+
+User story: R2019-1711;Input;Detected Vagueness;Disambiguation of Vagueness;Detected referential ambiguity;Disambiguation of referential ambiguity;Old input;
+Role;Frequent user;;;;;;
+Means;Search for dishes.;;;;;;
+Ends;I'm picking the dish, not the restaurant, picking the restaurant first is tedious.;;;;;;
+Requirement Type;new idea;;;;;;
+Concerning feature;;;;;;;
+
+User story: R2019-437;Input;Detected Vagueness;Disambiguation of Vagueness;Detected referential ambiguity;Disambiguation of referential ambiguity;Old input;
+Role;Frequent user;;;;;;
+Means;Register my allergies.;;;;;;
+Ends;I have allergies which limit my food options, these could be used to improve my experience.;;;;;;
+Requirement Type;new idea;;;;;;
+Concerning feature;;;;;;;
+
+User story: R2019-9856;Input;Detected Vagueness;Disambiguation of Vagueness;Detected referential ambiguity;Disambiguation of referential ambiguity;Old input;
+Role;Frequent user;;;;;;
+Means;Warn me about my allergies when placing an order.;;;;;;
+Ends;I sometimes order a dish to which i am (mildly) allergic, i want to order different dishes.;;;;;;
+Requirement Type;new idea;;;;;;
+Concerning feature;;;;;;;
+

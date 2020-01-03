@@ -1,0 +1,35 @@
+User story: R2019-9721;Input;Detected Vagueness;Disambiguation of Vagueness;Detected referential ambiguity;Disambiguation of referential ambiguity;Old input;
+Role;Occasional user;;;;;;
+Means;If the app could save a few addresses;;;;;;
+Ends;I oder often from three different locations;;;;;;
+Requirement Type;new idea;;;;;;
+Concerning feature;;;;;;;
+
+User story: R2019-8493;Input;Detected Vagueness;Disambiguation of Vagueness;Detected referential ambiguity;Disambiguation of referential ambiguity;Old input;
+Role;Occasional user;;;;;;
+Means;option to rush my order;;;;;;
+Ends;sometimes I do not have a lot of time to eat;;;;;;
+Requirement Type;new idea;;;;;;
+Concerning feature;;;;;;;
+
+User story: R2019-1555;Input;Detected Vagueness;Disambiguation of Vagueness;Detected referential ambiguity;Disambiguation of referential ambiguity;Old input;
+Role;Occasional user;;;;;;
+Means;Option to search for a specific dish;;;;;;
+Ends;it takes al lot of time to find the right dish with all the restaurant options;;;it = Option search dish;dish;;
+Requirement Type;new idea;;;;;;
+Concerning feature;;;;;;;
+
+User story: R2019-6077;Input;Detected Vagueness;Disambiguation of Vagueness;Detected referential ambiguity;Disambiguation of referential ambiguity;Old input;
+Role;Occasional user;;;;;;
+Means;register my allergies;;;;;;
+Ends;So the app can filter the restaurants and dishes on my allergies;;;;;;
+Requirement Type;new idea;;;;;;
+Concerning feature;;;;;;;
+
+User story: R2019-7614;Input;Detected Vagueness;Disambiguation of Vagueness;Detected referential ambiguity;Disambiguation of referential ambiguity;Old input;
+Role;Occasional user;;;;;;
+Means;Warn me if I am ordering a dish that i am allergic to;;;;;;
+Ends;so I will not die while eating a dish that I didn't know that i was allergic to;;;;;;
+Requirement Type;new idea;;;;;;
+Concerning feature;;;;;;;
+

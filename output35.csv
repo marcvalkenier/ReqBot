@@ -1,0 +1,35 @@
+User story: R2019-7894;Input;Detected Vagueness;Disambiguation of Vagueness;Detected referential ambiguity;Disambiguation of referential ambiguity;Old input;
+Role;Explorer;;;;;;
+Means;I want to make a route based on plotted places in a city;;;;;;
+Ends;I want this so I can have the most optional route for exploring the city;;;;;;
+Requirement Type;new idea;;;;;;
+Concerning feature;;;;;;;
+
+User story: R2019-8000;Input;Detected Vagueness;Disambiguation of Vagueness;Detected referential ambiguity;Disambiguation of referential ambiguity;Old input;
+Role;User;;;;;;
+Means;I want to read the street names without zooming in on the map;;;;;;
+Ends;Zooming in will lower my overview and I do not want to lose my overview;;;;;;
+Requirement Type;new idea;;;;;;
+Concerning feature;;;;;;;
+
+User story: R2019-561;Input;Detected Vagueness;Disambiguation of Vagueness;Detected referential ambiguity;Disambiguation of referential ambiguity;Old input;
+Role;Explorer;;;;;;
+Means;I want to see where I haven't been;;;;;;
+Ends;So I can explore these areas;;;;;;
+Requirement Type;new idea;;;;;;
+Concerning feature;;;;;;;
+
+User story: R2019-1287;Input;Detected Vagueness;Disambiguation of Vagueness;Detected referential ambiguity;Disambiguation of referential ambiguity;Old input;
+Role;dog lover;;;;;;
+Means;Walk through a city without cars;;;;;;
+Ends;So my dog won't be bothered by the cars;;;;;;
+Requirement Type;new idea;;;;;;
+Concerning feature;;;;;;;
+
+User story: R2019-7888;Input;Detected Vagueness;Disambiguation of Vagueness;Detected referential ambiguity;Disambiguation of referential ambiguity;Old input;
+Role;cycler;;;;;;
+Means;A route without crowded intersections and traffic lights;;;;;;
+Ends;so I can cycle as fast as I can;fast;very speedy;;;;
+Requirement Type;new idea;;;;;;
+Concerning feature;;;;;;;
+
